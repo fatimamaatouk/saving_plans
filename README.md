@@ -26,7 +26,6 @@ This project implements a savings plan calculator using Python, Pandas, and Stre
 
 2. **Updating Savings Plan**:
    - The `update_savings_plan` function uses dataframe operations to exclude specific categories and reallocate savings.
-   - Provides user feedback when no categories are selected for exclusion.
 
 3. **User Interface**:
    - Implemented using Streamlit, providing sliders, input fields, and tables to interact with and visualize savings plans.
